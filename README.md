@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, eu sou a Nathally! 👋
 
-<!--
-**vantevb/vantevb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Desenvolvedora de Software | Estudante de Engenharia de Software & Administração**
 
-Here are some ideas to get you started:
+Sou apaixonada por unir a lógica da programação com a visão estratégica de negócios. Minha dupla formação me permite não apenas escrever código estruturado, mas também entender os requisitos do cliente e o impacto da tecnologia no mercado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tecnologias e Ferramentas:**
+* **Front-end:** JavaScript, React, TypeScript
+* **Back-end & Dados:** Node.js, SQLite
+
+🚀 **O que estou construindo no momento:**
+* **Pixpay:** Dashboard financeiro focado em visualização ágil e gestão de dados.
+* **Gerenciador de Tarefas:** Aplicação full-stack robusta para organização de fluxos de trabalho.
+* **Andrea Vivas:** Desenvolvimento web voltado para portfólio e presença digital em design de interiores.
+
+📫 **Como me encontrar:**
+* [LinkedIn](Link-do-seu-LinkedIn-aqui)
+* [E-mail](Seu-email-aqui)
