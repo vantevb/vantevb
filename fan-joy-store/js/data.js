@@ -135,6 +135,16 @@ export const PRODUCTS = [
     variations: [{ name: 'Tamanho', options: [{ label: '60 × 26 cm', add: 0 }, { label: '90 × 38 cm', add: 15 }] }],
   },
 
+  {
+    id: 'banner-boat', name: 'Banner do Boat “Tá bom!”', category: 'banners', collection: 'boatoat',
+    price: 29.9, stock: 6, lowStock: 3, mode: 'pronta', productionDays: 2, createdDaysAgo: 3, featured: true,
+    images: [{ src: 'img/banner-boat.webp', alt: 'Banner panorâmico da Lilian com seis versões do Boat segurando microfone, balões “Tá bom” e o letreiro “A frase favorita do Boat: Tá bom”', fit: 'contain' }],
+    short: 'A frase favorita do Boat em letras grandes, para o show.',
+    description: 'Banner panorâmico com seis versões do Boat e o “Tá bom” em destaque. Faz par com o banner do Oat “Gostoso!”.',
+    details: ['Lona fosca com bastão e cordão', 'Leve para segurar com uma mão', BOAT_NOTE],
+    variations: [{ name: 'Tamanho', options: [{ label: '60 × 27 cm', add: 0 }, { label: '90 × 40 cm', add: 15 }] }],
+  },
+
   // Demais coleções: modelos demonstrativos desenhados pela VB Studio até a Lilian enviar as artes definitivas.
   {
     id: 'caneca-mais-um-episodio', name: 'Caneca “Só mais um episódio”', category: 'canecas', collection: 'dorama-club',
@@ -217,7 +227,7 @@ export const PRODUCTS = [
   },
   {
     id: 'fan-joy-box', name: 'Fan Joy Box', category: 'presentes', collection: 'essenciais',
-    price: 119.9, stock: 4, lowStock: 2, mode: 'pronta', productionDays: 3, createdDaysAgo: 70, featured: true,
+    price: 119.9, stock: 4, lowStock: 2, mode: 'pronta', productionDays: 3, createdDaysAgo: 70,
     art: { kind: 'box', text: 'fan joy\nbox', bg: 'navy' },
     short: 'Caixa presente com caneca, adesivos, marcador e cartão.',
     description: 'Presente pronto para aniversário ou amigo secreto. Você escolhe o fandom e a Lilian monta a caixa.',

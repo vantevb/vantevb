@@ -17,7 +17,7 @@ Esta versão é uma **apresentação navegável**. Dá para explorar a loja, mon
 - Nossa história, atendimento, dúvidas frequentes e políticas de entrega, trocas, cancelamento e privacidade
 
 **Coleção conceitual BoatOat FM Brasil 2026**
-Sete produtos criados a partir das duas artes da Lilian (“Tá bom!” e “Gostoso!”): duas canecas, dupla de bottons, kit de seis photocards, ecobag, cartela de adesivos e banner do Oat. A página da coleção conta a piada interna “Virou coisa nossa” e deixa claro que não há vínculo oficial com os artistas, a produtora ou o evento.
+Oito produtos criados a partir das artes da Lilian (“Tá bom!” e “Gostoso!”): duas canecas, dupla de bottons, kit de seis photocards, ecobag, cartela de adesivos, banner do Boat “Tá bom” e banner do Oat “Gostoso!”. A página da coleção conta a piada interna “Virou coisa nossa” e deixa claro que não há vínculo oficial com os artistas, a produtora ou o evento.
 
 **Painel de gestão** (`#painel`)
 - Receita, pedidos, ticket médio e itens vendidos, com filtros por período, categoria e coleção

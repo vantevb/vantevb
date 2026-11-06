@@ -303,11 +303,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .boat-hero .eyebrow { color: var(--yellow); }
 .boat-hero .lead { color: #D5D9EC; }
 .boat-hero .concept-note { color: #C4CAE2; }
-.boat-grid { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 48px; align-items: center; }
+.boat-grid { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 48px; align-items: start; }
+.boat-grid > div:first-child { position: sticky; top: 110px; }
 .boat-arts { display: grid; gap: 18px; }
 .boat-arts figure { margin: 0; background: var(--white); padding: 8px; border-radius: 6px; }
 .boat-arts figure:nth-child(1) { transform: rotate(-1.5deg); }
 .boat-arts figure:nth-child(2) { transform: rotate(1.5deg); border: 3px solid var(--yellow); }
+.boat-arts figure:nth-child(3) { transform: rotate(-1deg); }
 .boat-arts figcaption { color: var(--navy); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 8px 4px 2px; }
 .joke { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px; align-items: start; }
 .joke-step { display: grid; gap: 22px; justify-items: start; }

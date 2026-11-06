@@ -78,7 +78,7 @@ function home() {
         <p class="eyebrow">Coleção conceitual · BoatOat FM Brasil 2026</p>
         <h2 class="h2">Virou coisa nossa.</h2>
         <p>No fanmeeting no Brasil, o Boat respondia “Tá bom!” para quase tudo. E toda vez que alguém chamava o Oat de fofo, ele corrigia: “gostoso!”.</p>
-        <p>A Lilian transformou essas lembranças em duas artes. Delas nasceu uma coleção com canecas, bottons, photocards, ecobag, adesivos e banner.</p>
+        <p>A Lilian transformou essas lembranças em artes. Delas nasceu uma coleção com canecas, bottons, photocards, ecobag, adesivos e os banners do Boat e do Oat.</p>
         <a class="btn btn-primary" href="#colecao-boatoat">Conhecer a coleção ${icon.arrow}</a>
         ${conceptNote}
       </div>
@@ -264,14 +264,15 @@ function collectionPage(id) {
     return `<section class="boat-hero">
       <div class="wrap boat-grid">
         <div>
-          <p class="eyebrow">Coleção conceitual · 7 produtos</p>
+          <p class="eyebrow">Coleção conceitual · 8 produtos</p>
           <h1 class="display">BoatOat FM<br>Brasil 2026</h1>
-          <p class="lead">Duas artes da Lilian, dois bordões e uma piada interna que o fandom inteiro entendeu.</p>
+          <p class="lead">As artes da Lilian, dois bordões e uma piada interna que o fandom inteiro entendeu.</p>
           ${conceptNote}
         </div>
         <div class="boat-arts">
           <figure><img src="img/arte-ta-bom.webp" alt="Arte “Tá bom!” da Lilian aplicada em canecas, com as vistas lado esquerdo, meio e lado direito" width="1200" height="800"><figcaption>Arte 1 · “Tá bom!”</figcaption></figure>
           <figure><img src="img/arte-gostoso.webp" alt="Arte panorâmica “Gostoso!” da Lilian com seis personagens entre corações" width="1400" height="599"><figcaption>Arte 2 · “Gostoso!”</figcaption></figure>
+          <figure><img src="img/banner-boat.webp" alt="Banner “A frase favorita do Boat: Tá bom”, arte da Lilian" width="1400" height="630"><figcaption>Banner do Boat · “Tá bom”</figcaption></figure>
         </div>
       </div>
     </section>
@@ -283,7 +284,7 @@ function collectionPage(id) {
       </div>
     </section>
     <section class="section section-tint"><div class="wrap">
-      <div class="section-head"><div><p class="eyebrow">A coleção</p><h2 class="h2">Sete jeitos de levar a piada com você.</h2></div></div>
+      <div class="section-head"><div><p class="eyebrow">A coleção</p><h2 class="h2">Oito jeitos de levar a piada com você.</h2></div></div>
       ${grid(list)}
       <p class="fine">Mockups ilustrativos para apresentação. Materiais, medidas e preços serão confirmados pela Fan Joy Store antes das vendas.</p>
     </div></section>`;
